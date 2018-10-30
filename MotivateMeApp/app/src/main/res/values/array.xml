@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+     <item>\"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.\"\n\n Andrew Carnegie</item>
+     <item>The successful warrior is the average man, with laser-like focus. \n\n Bruce Lee</item>
+        <item>\"Focus on the journey, not the destination. Joy is found not in finishing an activity but in doing it.\" \n\nGreg Anderson</item>
+    <item>Motivation is what gets you started. Habit is what keeps you going. \n\n Jim Ryun</item>
+        <item>\"He who lives in harmony with himself lives in harmony with the universe.\" \n\nMarcus Aurelius</item>
+    <item><b>Take up one idea. Make that one idea your life — think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.</b> \n\n Swami Vivekananda</item>
+    <item>Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no help at all. \n\n Dale Carnegie</item>
+     <item> We often miss opportunity because it\'s dressed in overalls and looks like work.\n Thomas A. Edison </item>
+     <item>Do not be embarrassed by your failures, learn from them and start again. \n Richard Branson </item>
+        <item>  Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be.\n Zig Ziglar  </item>
+        <item>Action is the foundational key to all success.\n Pablo Picasso </item>
+        <item>If you want to make an easy job seem mighty hard, just keep putting off doing it.\n Olin Miller </item>
+        <item>The best way to cheer yourself up is to try to cheer somebody else up. \nMark Twain</item>
+        <item>Most people would rather be certain they\’re miserable, than risk being happy. \nRobert Anthony </item>
+        <item>A great obstacle to happiness is to expect too much happiness. \nBernard de Fontenelle</item>
+        <item>Victory is sweetest when you\’ve known defeat.\n\n Malcolm S. Forbes</item>
+        <item>The successful man is the one who finds out what is the matter with his business before his competitors do.\n\n Roy L. Smith</item>
+        <item>I attribute my success to this: I never gave or took any excuse.\n\n Florence Nightingale</item>
+        <item>Things may come to those who wait, but only the things left by those who hustle.\n\n Abraham Lincoln</item>
+        <item>Success means having the courage, the determination, and the will to become the person you believe you were meant to be.\n\n George Sheehan</item>
+        <item>I think the key to life is just being a happy person, and happiness will bring you success. \n\nDiego Val</item>
+        <item>The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself\n\n Mark Caine</item>
+        <item>Start where you are. Use what you have. Do what you can.\n\n Arthur Ashe</item>
+        <item>Your attitude, not your aptitude, will determine your altitude.\n\n Zig Ziglar</item>
+        <item>Success is the sum of small efforts, repeated day-in and day-out.\n\n Robert Collier</item>
+        <item>Only I can change my life. No one can do it for me. \n\nCarol Burnett</item>
+        <item>Life is 10% what happens to you and 90% how you react to it.\n\n Charles R. Swindoll</item>
+        <item>Good, better, best. Never let it rest. \'Til your good is better and your better is best. \n\nSt. Jerome</item>
+        <item>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. \n\nHelen Keller</item>
+        <item>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. \n\nThomas A. Edison</item>
+        <item>Infuse your life with action. Don\'t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen. yourself, right now, right down here on Earth. Bradley Whitford</item>
+        <item>He conquers who endures. Persius</item>
+        <item>Always do your best. What you plant now, you will harvest later. Og Mandino</item>
+        <item>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. Norman Vincent Peale</item>
+        <item>Failure will never overtake me if my determination to succeed is strong enough. Og Mandino</item>
+        <item>With the new day comes new strength and new thoughts. Eleanor Roosevelt</item>
+        <item>It does not matter how slowly you go as long as you do not stop. Confucius</item>
+        <item>Setting goals is the first step in turning the invisible into the visible. Tony Robbins</item>
+        <item>Quality is not an act, it is a habit. Aristotle</item>
+        <item>Keep your eyes on the stars, and your feet on the ground. Theodore Roosevelt</item>
+        <item>Accept the challenges so that you can feel the exhilaration of victory. George S. Patton</item>
+        <item>If you can dream it, you can do it. Walt Disney</item>
+        <item>The will to win, the desire to succeed, the urge to reach your full potential. these are the keys that will unlock the door to personal excellence. Confucius</item>
+        <item>The secret of getting ahead is getting started.\n\n Mark Twain</item>
+        <item>If you fell down yesterday, stand up today.\n\n H. G. Wells</item>
+        <item>Your talent is God\'s gift to you. What you do with it is your gift back to God. \n\nLeo Buscaglia</item>
+        <item>Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. Lao Tzu</item>
+        <item>You are never too old to set another goal or to dream a new dream. Les Brown</item>
+        <item>When something is important enough, you do it even if the odds are not in your favor. Elon Musk</item>
+        <item>If you want to conquer fear, don\'t sit home and think about it. Go out and get busy. Dale Carnegie</item>
+        <item>Problems are not stop signs, they are guidelines. Robert H. Schuller</item>
+	<item>Only I can change my life. No one can do it for me. Carol Burnett</item>
+	<item> Life is 10% what happens to you and 90% how you react to it. Charles R. Swindoll</item>
+	<item>Good, better, best. Never let it rest. \'Til your good is better and your better is best. St. Jerome</item>
+	<item>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. Helen Keller</item>
+	<item>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. Thomas A. Edison</item>
+	<item>Infuse your life with action. Don\'t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth. Bradley Whitford</item>
+	<item>He conquers who endures. Persius</item>
+	<item>Always do your best. What you plant now, you will harvest later. Og Mandino</item>
+	<item>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. Norman Vincent Peale</item>
+	<item>With the new day comes new strength and new thoughts. Eleanor Roosevelt</item>
+	<item>It does not matter how slowly you go as long as you do not stop. Confucius</item>
+	<item>You can\'t cross the sea merely by standing and staring at the water. Rabindranath Tagore</item>
+	<item>Setting goals is the first step in turning the invisible into the visible. Tony Robbins</item>
+	<item>Quality is not an act, it is a habit. Aristotle</item>
+	<item>Failure will never overtake me if my determination to succeed is strong enough. Og Mandino</item>
+	<item>Keep your eyes on the stars, and your feet on the ground. Theodore Roosevelt</item>
+	<item>Accept the challenges so that you can feel the exhilaration of victory. George S. Patton</item>
+	<item>If you can dream it, you can do it. Walt Disney</item>
+	<item>The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence. Confucius</item>
+	<item>The secret of getting ahead is getting started. Mark Twain</item>
+	<item>If you fell down yesterday, stand up today. H. G. Wells</item>
+	<item>Your talent is God\'s gift to you. What you do with it is your gift back to God. Leo Buscaglia</item>
+	<item>Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. Lao Tzu</item>
+	<item>You are never too old to set another goal or to dream a new dream. Les Brown</item>
+	<item>When something is important enough, you do it even if the odds are not in your favor. Elon Musk</item>
+	<item>If you want to conquer fear, don\'t sit home and think about it. Go out and get busy. Dale Carnegie</item>
+	<item>Problems are not stop signs, they are guidelines. Robert H. Schuller</item>
+	<item>We may encounter many defeats but we must not be defeated. Maya Angelou</item>
+	<item>A creative man is motivated by the desire to achieve, not by the desire to beat others. Ayn Rand</item>
+	<item>Don\'t watch the clock; do what it does. Keep going. Sam Levenson</item>
+	<item>There is only one corner of the universe you can be certain of improving, and that\'s your own self. Aldous Huxley</item>
+	<item>Set your goals high, and don\'t stop till you get there. Bo Jackson</item>
+	<item>Aim for the moon. If you miss, you may hit a star. W. Clement Stone</item>
+	<item>In order to succeed, we must first believe that we can. Nikos Kazantzakis</item>
+	<item>You can never quit. Winners never quit, and quitters never win. Ted Turner</item>
+	<item>We should not give up and we should not allow the problem to defeat us. A. P. J. Abdul Kalam</item>
+	<item>What you do today can improve all your tomorrows. Ralph Marston</item>
+	<item>Things do not happen. Things are made to happen. John F. Kennedy</item>
+	<item>Never give up, for that is just the place and time that the tide will turn. Harriet Beecher Stowe</item>
+	<item>Perseverance is not a long race; it is many short races one after the other. Walter Elliot</item>
+	<item>The way to get started is to quit talking and begin doing. Walt Disney</item>
+	<item>You can\'t expect to hit the jackpot if you don\'t put a few nickels in the machine. Flip Wilson</item>
+	<item>A good plan violently executed now is better than a perfect plan executed next week. George S. Patton</item>
+	<item>Either you run the day or the day runs you. Jim Rohn</item>
+	<item>Knowing is not enough; we must apply. Willing is not enough; we must do. Johann Wolfgang von Goethe</item>
+	<item>The people who influence you are the people who believe in you. Henry Drummond</item>
+	<item>If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success. John D. Rockefeller</item> 
+	<item>Do you want to know who you are? Don\'t ask. Act! Action will delineate and define you. Thomas Jefferson</item> 
+    </string-array>
+
+</resources>
